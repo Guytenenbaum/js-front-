@@ -1,0 +1,1 @@
+export const API_URL = 'https://api.proudriver-1f86a97c.germanywestcentral.azurecontainerapps.io'
